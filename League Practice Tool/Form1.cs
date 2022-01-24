@@ -41,7 +41,7 @@ namespace League_Practice_Tool
 		        configuration: {
 			        gameMode: 'PRACTICETOOL',
 			        gameMutator: '',
-			        mapId: 11,
+			        mapId: 12,
 			        mutators: {
 				        id: 1
 			        },
